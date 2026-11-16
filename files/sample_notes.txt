@@ -1,0 +1,4 @@
+This is a demonstration knowledge base for Graph Naive RAG.
+The prototype combines vector retrieval, keyword search and knowledge-graph exploration.
+A planner decomposes a question into retrieval tasks.
+The coordinator collects evidence and prepares a response.
